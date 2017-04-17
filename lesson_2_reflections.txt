@@ -3,3 +3,6 @@ Git creates a hidden folder, which contains all the information about the reposi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is between the working directory and the repository. You can think of it as a box in which you can add or delete files until you think all contents a ready to make a new commit to the repository. With this method you can prepare your commit properly.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches give you the opportunity to develop on a seperate path from the master-branch. In This way you can check und debug your changes until they are stable. 
