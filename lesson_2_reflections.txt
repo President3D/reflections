@@ -6,3 +6,6 @@ The staging area is between the working directory and the repository. You can th
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches give you the opportunity to develop on a seperate path from the master-branch. In This way you can check und debug your changes until they are stable. 
+
+How do the diagrams help you visualize the branch structure?
+They visualize at what time I split up a branch, which commits I made and what the commits of all branches are.
