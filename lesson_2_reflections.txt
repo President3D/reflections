@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates a hidden folder, which contains all the information about the repository and the commits. We need to do that, because git needs those informations to run the version control system.
