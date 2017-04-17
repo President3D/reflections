@@ -9,3 +9,6 @@ Branches give you the opportunity to develop on a seperate path from the master-
 
 How do the diagrams help you visualize the branch structure?
 They visualize at what time I split up a branch, which commits I made and what the commits of all branches are.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging one branch to another, imports all the changes form the second branch in the first one. So you can add new function in a second branch, bugfix the function and merge it later with your masterbranch. In the meantime the masterbranch can have new commits. The diagram represent the times when we create a new branch and when we merge it, so we can understand which development steps were taken in the meantime.
