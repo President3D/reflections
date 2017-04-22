@@ -4,3 +4,6 @@ When you like to share your repository with others or especially for open source
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because you only have full control of your work, if you pull changes manually. Moreover you would need to stay connected with the internet all the time and without a info message you would still not know, if the repository changed to a newer version.
+
+Describe the differences between forks, clones, and branches. When yould you use one instead of another?
+You can fork a repository from another Github user to create a copy of that repository on your own Github account. If your clone a repository you set up a copy of a repository from Github on your local disc. If you add a new branch you create a modified version of a repository which you can merge at a later time with the original version, if you want so.
