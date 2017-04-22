@@ -7,3 +7,6 @@ Because you only have full control of your work, if you pull changes manually. M
 
 Describe the differences between forks, clones, and branches. When yould you use one instead of another?
 You can fork a repository from another Github user to create a copy of that repository on your own Github account. If your clone a repository you set up a copy of a repository from Github on your local disc. If you add a new branch you create a modified version of a repository which you can merge at a later time with the original version, if you want so.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you make a change and want to pull it, it will problably result in a fast forward merge. Although you have to deal less with data inconsistencies.
