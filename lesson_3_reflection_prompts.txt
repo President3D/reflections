@@ -10,3 +10,6 @@ You can fork a repository from another Github user to create a copy of that repo
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you make a change and want to pull it, it will problably result in a fast forward merge. Although you have to deal less with data inconsistencies.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git and GitHub collaborating would still be possible but only with a lot of coordination. If you can't use all the useful functions of git, you have to do it all manually.
